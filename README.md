@@ -13,10 +13,10 @@
 </div>
 <br><br>
 <a href="https://github.com/isacwesley">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isacwesley&theme=codeSTACKr&locale=pt-br&layout=compact&langs_count=10">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=isacwesley&theme=codeSTACKr&locale=pt-br&layout=compact&langs_count=10">
 </a>
 <a href="https://github.com/isacwesley">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=isacwesley&show_icons=true&theme=codeSTACKr&locale=pt-br">
+<img src="https://github-readme-stats.vercel.app/api?username=isacwesley&show_icons=true&theme=codeSTACKr&locale=pt-br">
 </a>
 
 
