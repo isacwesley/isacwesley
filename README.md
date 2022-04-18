@@ -12,5 +12,11 @@
   <img align="center" alt="Isac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <br><br>
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isacwesley&theme=codeSTACKr&locale=pt-br&layout=compact&langs_count=10">
+</a>
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=isacwesley&show_icons=true&theme=codeSTACKr&locale=pt-br">
+</a>
 
-<img display="inline" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isacwesley&show_icons=true&theme=dark&locale=en&layout=compact" alt="isacwesley">
+
