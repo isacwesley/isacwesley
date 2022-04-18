@@ -13,5 +13,5 @@
 </div>
 <br><br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isacwesley&show_icons=true&theme=dark&locale=en&layout=compact" alt="isacwesley" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isacwesley&show_icons=true&theme=dark&locale=en" alt="isacwesley" />
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isacwesley&show_icons=true&theme=dark&locale=en&layout=compact" alt="isacwesley"></div>
