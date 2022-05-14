@@ -35,3 +35,4 @@ I started my studies with html, css and javascript and I seek to grow in fronten
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/isacwesleyG"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isacwesley&label=Profile%20views&color=0e75b6&style=flat" alt="isacwesley" /> </p>
