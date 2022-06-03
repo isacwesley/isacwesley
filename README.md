@@ -25,6 +25,11 @@ I started my studies with html, css and javascript and I seek to grow in fronten
 
 ### Badges
 
+<div display="block">
+	<a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644515575BADGE_2.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station"><img width="200px" src="img/cms_files_10224_1644515575BADGE_2.png"></a>
+	<a href="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1644516322badge.png?utm_campaign=alura_latam_-_challenge_email_projeto_2_br&utm_medium=email&utm_source=RD+Station"><img width="200px" src="img/cms_files_10224_1644516322badge.png"></a>
+</div>
+
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/isacwesley"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacwesley&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
